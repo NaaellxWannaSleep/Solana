@@ -2,7 +2,7 @@
 
 # 🌌 Solana Hub
 
-Roblox script hub for Violence Districk etc..
+Roblox script hub for Violence Districk etc.
 
 [
 
@@ -21,7 +21,7 @@ Roblox script hub for Violence Districk etc..
 
 ## Usage
 
-1. Join **Steal An Egg** on Roblox.
+1. Join **Violence Districk or others** on Roblox.
 2. Get the latest script from our Discord and run it in your executor.
 3. Enter your key and press **Check Key**.
 4. The menu will open.
